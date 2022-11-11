@@ -4,4 +4,4 @@ My gitHub showcases a number of projects I have previously worked on and am curr
 
 I am currently looking to work in a software engineering/development role in any number of sectors. Thanks for taking the time to view my profile.
 
-Some of the projects I have previously worked on and am able to share are:
+Some of the projects I have previously worked on and am able to share are available publicly on my profile. 
